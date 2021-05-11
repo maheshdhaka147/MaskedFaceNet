@@ -1,0 +1,6 @@
+Please install following before running the file 'RunThisFile'
+
+1. numpy
+2. cv2
+3. mtcnn 
+4. tensorflow
