@@ -40,8 +40,8 @@ RunThisFile                            : The file can be used to run a live demo
 
 Original Dataset: Link
 #################################### BEGIN ##################################################
-Dataset1: Correctly Masked Faces (https://drive.google.com/file/d/1upkkdJ8x4QKivBqmhIrsAeLf2sR2A2_v/view?usp=sharing)
-Dataset1: Incorrectly Masked Faces (https://drive.google.com/file/d/1h8hXuLYDIVupV3u80sd8CIdsTWDgExb3/view?usp=sharing)
+Dataset1: Correctly Masked Faces (https://esigelec-my.sharepoint.com/:f:/g/personal/cabani_esigelec_fr/Ev3GdnQSyzxPjyzU5ElHqagBlkRCaKnnCI85iX-d1L4OHA?e=G7uaYV)
+Dataset1: Incorrectly Masked Faces (https://esigelec-my.sharepoint.com/:f:/g/personal/cabani_esigelec_fr/EirjS8ew7-5LnO8I56Uk63wBKebwSlukFBFBaO8N25wn3g?e=Ho1jHG)
 Dataset2: Kaggle (https://www.kaggle.com/andrewmvd/face-mask-detection)
 Dataset3: SCFace Link Not available due to legal agreement
 ###################################### END #################################################
